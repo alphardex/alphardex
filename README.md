@@ -2,11 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alphardex&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I'm a self-taught Frontend developer in China. I made [aqua.css](https://aquacss.netlify.com/), an elegant CSS Framework for web development.
+I'm a self-taught Frontend developer in China. I like coding, anime, game, and kawai mono.
 
-Also, I enjoy creating on the [codepen](https://codepen.io/alphardex), maybe you can have a visit.
+Also, I enjoy creating cool 3D effects at platforms such as [codepen](https://codepen.io/alphardex), [codesandbox](https://codesandbox.io/u/alphardex), maybe you can have a visit.
 
-- Find more about [me](https://alphardex.github.io/gateofbabylon/about/)
+- Find more about [me](https://alphardex.netlify.app/#/)
 
 <!--
 **alphardex/alphardex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
