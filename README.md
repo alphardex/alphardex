@@ -2,11 +2,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alphardex&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I'm a self-taught Frontend developer in China. I like coding, anime, game, and kawai mono.
+I'm a self-taught Frontend developer in China.
 
-Also, I enjoy creating cool 3D effects at platforms such as [codepen](https://codepen.io/alphardex), [codesandbox](https://codesandbox.io/u/alphardex), maybe you can have a visit.
+I like coding, anime, game, and kawaii mono.
 
-- Find more about [me](https://alphardex.netlify.app/#/)
+Mainly focus on Shader, three.js, and WebGL.
+
+- Find more about [me](https://haobinwang-2023.netlify.app/)
 
 <!--
 **alphardex/alphardex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
