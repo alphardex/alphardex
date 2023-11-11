@@ -10,6 +10,10 @@ Mainly focus on Shader, three.js, and WebGL.
 
 - Find more about [me](https://haobinwang-2023.netlify.app/)
 
+![Three.js Badge](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)
+![WebGL Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+
 <!--
 **alphardex/alphardex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
